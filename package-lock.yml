@@ -5,4 +5,6 @@ packages:
     version: 0.10.0
   - package: Datavault-UK/automate_dv
     version: 0.11.0
-sha1_hash: 5d443e6f6b32e40e216c5a754bfcbc620cc24b8c
+  - package: dbt-labs/codegen
+    version: 0.13.1
+sha1_hash: d07fa49102a00f9711840933a5253694d6e1623d
