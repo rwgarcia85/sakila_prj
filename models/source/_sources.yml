@@ -1,7 +1,8 @@
 version: 2
 
 sources:
-  - name: stg
+  - name: lnd
+    schema: source
     tables:
       - name: actor
         columns:
